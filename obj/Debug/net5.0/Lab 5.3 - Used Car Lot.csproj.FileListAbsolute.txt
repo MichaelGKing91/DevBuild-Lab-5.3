@@ -1,0 +1,16 @@
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.exe
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.deps.json
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.runtimeconfig.json
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.runtimeconfig.dev.json
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.dll
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\ref\Lab 5.3 - Used Car Lot.dll
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\bin\Debug\net5.0\Lab 5.3 - Used Car Lot.pdb
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.AssemblyInfoInputs.cache
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.AssemblyInfo.cs
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.csproj.CoreCompileInputs.cache
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.dll
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\ref\Lab 5.3 - Used Car Lot.dll
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.pdb
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.genruntimeconfig.cache
+C:\Users\mking10\source\repos\DevBuild - Week 5\Lab 5.3 - Used Car Lot\obj\Debug\net5.0\Lab 5.3 - Used Car Lot.csprojAssemblyReference.cache
